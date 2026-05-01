@@ -15,8 +15,6 @@ Passionate about building logic and solving problems.
 
 *Focused on data organization and business logic through formula automation and sheet optimization.*
 
----
-
 ### 📚 Learning & Evolving:
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
