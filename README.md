@@ -1,8 +1,12 @@
 <div align="center">
+  
+# Hi! I'm Leonardo 👋🏽
+  
 
-# Aspiring Software Engineer & CS Student from Brazil 🇧🇷
 
-*Passionate about building logic and solving problems.*
+### An aspiring Software Engineer & CS Student from Brazil 🇧🇷
+
+Passionate about building logic and solving problems.
 
 ---
 
@@ -18,7 +22,7 @@
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 
----
+
 
 ### ⏳ What I want to learn:
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
